@@ -17,6 +17,6 @@
 1. 在 App Store 安装 [Scriptable](https://apps.apple.com/cn/app/scriptable/id1405459188) 和 Apple 的[快捷指令](https://apps.apple.com/cn/app/id1462947752)。如果已经安装，直接进入下一步。
 2. 分别打开上面的「安装主脚本」和「净洗扫码」链接，按提示将两条指令添加到快捷指令 App。
 3. 打开「快捷指令」，运行「安装主脚本」，按提示完成 Cleanwash 的安装。再运行一次「净洗扫码」，按提示允许相机访问并扫描机器码。
-4. 打开 Scriptable，轻点 **Cleanwash**，登录自己的胖乖生活账号后即可使用。以后在净洗中点「扫码洗衣」，就可以调用「净洗扫码」。
+4. 打开 Scriptable，轻点 **Cleanwash**，登录自己的胖乖生活账号后即可使用。
 
 首次运行时，请按手机提示允许所需权限。
